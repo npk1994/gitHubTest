@@ -1,5 +1,3 @@
-#!/bin/bash
-
 echo "Welcome to sample github tutorial"
 
 echo "This program will print machine details"
